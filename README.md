@@ -115,7 +115,10 @@ Add screenshots when a test fails
 Generate HTML test reports
 
 Add cross-browser testing
+
 Integrate the tests into a CI/CD pipeline
+
 Add parallel test execution
+
 Improve assertions and test coverage
 
