@@ -54,7 +54,7 @@ HTML/CSS selectors & ID selectors
 
         python -m venv venv
 
-Activate it:
+    Activate it:
 
 
         source venv/bin/activate
