@@ -103,11 +103,17 @@ Sorting: Verify that products are displayed in ascending price.
 Some possible improvements for the project include:
 
 Add more negative test cases
+
 Add explicit waits instead of relying on static delays
+
 Introduce the Page Object Model (POM)
+
 Improve test data management
+
 Add screenshots when a test fails
+
 Generate HTML test reports
+
 Add cross-browser testing
 Integrate the tests into a CI/CD pipeline
 Add parallel test execution
